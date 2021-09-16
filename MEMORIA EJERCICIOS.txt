@@ -1,0 +1,10 @@
+http://puntocomnoesunlenguaje.blogspot.com/p/ejercicios.html
+---------------ARRAYS------------------------------------------
+1. Calcular la media de una serie de números que se leen por teclado.
+Programa Java que lea por teclado 10 números enteros y los guarde en un array. A continuación calcula y muestra por separado la media de los valores positivos y la de los valores negativos.
+2. Programa Java que lea 10 números enteros por teclado y los guarde en un array. Calcula y muestra la media de los números que estén en las posiciones pares del array.  Considera la primera posición del array (posición 0) como par.
+3. Leer por teclado la nota de los alumnos de una clase y calcular la nota media del grupo. Mostar los alumnos con notas superiores a la media.
+4. Programa que crea un array de 20 elementos llamado Pares y guarde los 20 primeros números pares. Mostrar por pantalla el contenido del array creado.
+5. Programa Java que guarda en un array 10 números enteros que se leen por teclado. A continuación se recorre el array y calcula cuántos números son positivos, cuántos negativos y cuántos ceros.
+6. Programa Java que llene un array con 10 números enteros que se leen por teclado. A continuación calcula y muestra la media de los valores positivos y la de los valores negativos del array.
+7. Programa Java para leer la altura de N personas y calcular la altura media. Calcular cuántas personas tienen una altura superior a la media y cuántas tienen una altura inferior a la media. El valor de N se pide por teclado y debe ser entero positivo.
